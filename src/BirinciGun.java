@@ -7,6 +7,7 @@ public class BirinciGun {
 		System.out.println("10:11 ikinci gÃ¼n");
 		System.out.println("ikinci gün");
 		System.out.println("10:36 ikinci gün");
+		System.out.println("11:03 github.com");
 	}
 
 }
