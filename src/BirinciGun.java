@@ -8,7 +8,8 @@ public class BirinciGun {
 		System.out.println("ikinci gun");
 		System.out.println("10:36 ikinci gun");
 		System.out.println("11:05 local");
-		System.out.printLn("11:23 github.com");
+		System.out.println("11:23 github.com");
+		System.out.println("ben conflict beklemiyorum");
 
 	}
 
